@@ -1,0 +1,8 @@
+C:\Users\Maz\source\repos\FruitsShop\FruitsShop\bin\Debug\FruitsShop.exe.config
+C:\Users\Maz\source\repos\FruitsShop\FruitsShop\bin\Debug\FruitsShop.exe
+C:\Users\Maz\source\repos\FruitsShop\FruitsShop\bin\Debug\FruitsShop.pdb
+C:\Users\Maz\source\repos\FruitsShop\FruitsShop\obj\Debug\FruitsShop.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\FruitsShop\FruitsShop\obj\Debug\FruitsShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\FruitsShop\FruitsShop\obj\Debug\FruitsShop.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\FruitsShop\FruitsShop\obj\Debug\FruitsShop.exe
+C:\Users\Maz\source\repos\FruitsShop\FruitsShop\obj\Debug\FruitsShop.pdb
